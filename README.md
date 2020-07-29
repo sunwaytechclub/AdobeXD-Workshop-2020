@@ -2,7 +2,7 @@
 
 Welcome to <ADOBE XD WORKSHOP> 🥳!
 
-Here, we will learn about <A Brief Intro To Adobe XD>
+Here, we will learn about a brief intro to Adobe XD
 
 Before we jump straight into the workshops, allow me to introduce ourself, do watch this short 1 minute video to know more 🎇!
 
@@ -10,7 +10,7 @@ Before we jump straight into the workshops, allow me to introduce ourself, do wa
 
 Without further ado, let's get started!
 
-- This is a fork from [SoyaBean123456](https://github.com/SoyaBean123456)
+- This is a fork from [SoyaBean123456/AdobeXD-Workshop](https://github.com/SoyaBean123456/AdobeXD-Workshop)
 
 <br>
 
