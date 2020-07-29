@@ -1,6 +1,6 @@
 # STC's ADOBE XD WORKSHOP
 
-Welcome to <ADOBE XD WORKSHOP> 🥳!
+Welcome to ADOBE XD WORKSHOP 🥳!
 
 Here, we will learn about a brief intro to Adobe XD
 
